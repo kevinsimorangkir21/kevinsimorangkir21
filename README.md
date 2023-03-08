@@ -29,6 +29,12 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/vins.ch"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="vins.ch" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kevinsimorangkir21&show_icons=true&locale=en&layout=compact" alt="kevinsimorangkir21" /></p>
+<br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kevinsimorangkir21&show_icons=true&locale=en" alt="kevinsimorangkir21" /></p>
+        # GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=kevinsimorangkir21&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinsimorangkir21&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
