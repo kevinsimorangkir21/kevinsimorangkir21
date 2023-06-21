@@ -5,7 +5,20 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
 <b>Visitors Count</b>
-<p align="center" dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ad0e928240e14f1ce8913955170d34f76669d5c4c4780178f7bbe6ce073e52fa/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f7b6669747261696c796173617d2f636f756e742e737667"><img align="center" src="https://camo.githubusercontent.com/ad0e928240e14f1ce8913955170d34f76669d5c4c4780178f7bbe6ce073e52fa/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f7b6669747261696c796173617d2f636f756e742e737667" data-canonical-src="https://profile-counter.glitch.me/{kevinsimorangkir21}/count.svg" style="max-width: 100%;"></a></p> 
+<p align="left" dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ad0e928240e14f1ce8913955170d34f76669d5c4c4780178f7bbe6ce073e52fa/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f7b6669747261696c796173617d2f636f756e742e737667"><img align="center" src="https://camo.githubusercontent.com/ad0e928240e14f1ce8913955170d34f76669d5c4c4780178f7bbe6ce073e52fa/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f7b6669747261696c796173617d2f636f756e742e737667" data-canonical-src="https://profile-counter.glitch.me/{kevinsimorangkir21}/count.svg" style="max-width: 100%;"></a></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
+
+<p align="left"> <a href="https://twitter.com/rishavchanda" target="blank"><img src="https://img.shields.io/twitter/follow/rishavchanda?logo=twitter&style=for-the-badge" alt="rishavchanda" /></a> </p>
+
+- 🔭 I’m currently working on **Vexa Web App**
+
+- 🌱 I’m currently learning **DevOps**
+
+- 💬 Ask me about **Android , MEARN**
+
+- 📫 How to reach me **<rishavchanda0@gmail.com>**
+
+- ⚡ Fun fact **I am Funny**
 <br>
 <h3 align="center">Usually called VYN, I am a student at the Institut Teknologi Sumatera (ITERA). I majored in Informatics Engineering and now I focus on Web Development with more than 3 years of experience.</h3>
 
