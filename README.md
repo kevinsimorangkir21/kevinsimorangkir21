@@ -8,15 +8,16 @@
 
 <p align="left"> <a href="https://twitter.com/vinsch01" target="blank"><img src="https://img.shields.io/twitter/follow/twitter?logo=twitter&style=for-the-badge" alt="vinsch01" /></a> </p>
 
-- 🔭 I’m currently working on **Vexa Web App**
+- 🔭 I’m currently working on **Ambis PTN**
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **ITERA**
 
-- 💬 Ask me about **Android , MEARN**
+- 💬 Ask me about **Web Devloped**
 
-- 📫 How to reach me **<rishavchanda0@gmail.com>**
+- 📫 How to reach me **<mastercamp436@gmail.com>**
 
 - ⚡ Fun fact **I am Funny**
+
 <br>
 <h3 align="center">Usually called VYN, I am a student at the Institut Teknologi Sumatera (ITERA). I majored in Informatics Engineering and now I focus on Web Development with more than 3 years of experience.</h3>
 
