@@ -1,7 +1,7 @@
 [![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](#)
 
 <h1 align="center">Hi 👋, I'm Kevin Simorangkir</h1>
-<h3 align="center">A passionate Back End and UI/UX Developer from Indonesia</h3>
+<h3 align="center">A passionate Back End and UI/UX Developer from Indonesia. Usually called VYN, I am a student at the Institut Teknologi Sumatera (ITERA). I majored in Informatics Engineering and now I focus on Web Development with more than 3 years of experience.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kevinsimorangkir21&label=Profile%20views&color=0e75b6&style=flat" alt="kevinsimorangkir21" /> </p>
@@ -18,8 +18,6 @@
 
 - ⚡ Fun fact **I am Funny**
 
-<br>
-<h3 align="center">Usually called VYN, I am a student at the Institut Teknologi Sumatera (ITERA). I majored in Informatics Engineering and now I focus on Web Development with more than 3 years of experience.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kevinsimorangkir21&label=Profile%20views&color=0e75b6&style=flat" alt="kevinsimorangkir21" /> </p>
 
