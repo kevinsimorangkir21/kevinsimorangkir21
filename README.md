@@ -18,13 +18,6 @@
 
 - ⚡ Fun fact **I am Funny**
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kevinsimorangkir21&label=Profile%20views&color=0e75b6&style=flat" alt="kevinsimorangkir21" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kevinsimorangkir21" alt="kevinsimorangkir21" /></a> </p>
-
-- 📫 How to reach me **mastercamp436@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/vinsch.01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vinsch.01" height="30" width="40" /></a>
