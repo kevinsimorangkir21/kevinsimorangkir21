@@ -1,9 +1,3 @@
-<div class="Box-body p-4">
-    <div class="d-flex flex-justify-between">
-      <div class="text-mono text-small mb-3">
-        <a href="/kevinsimorangkir/kevinsimorangkir" class="no-underline Link--primary">kevinsimorangkir21</a><span class="color-fg-muted d-inline-block" style="padding:0px 2px;">/</span>README<span class="color-fg-muted">.md</span>
-      </div>
-
 <b>Visitors Count</b>
 <p align="center" dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ad0e928240e14f1ce8913955170d34f76669d5c4c4780178f7bbe6ce073e52fa/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f7b6669747261696c796173617d2f636f756e742e737667"><img align="center" src="https://camo.githubusercontent.com/ad0e928240e14f1ce8913955170d34f76669d5c4c4780178f7bbe6ce073e52fa/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f7b6669747261696c796173617d2f636f756e742e737667" data-canonical-src="https://profile-counter.glitch.me/{kevinsimorangkir21}/count.svg" style="max-width: 100%;"></a></p> 
 <br>
