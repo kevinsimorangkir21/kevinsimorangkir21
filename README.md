@@ -1,5 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/15/e7/e3/15e7e300166c962d3b8a22f60b5cac9e.gif]()
-](#)
+[![MasterHead](https://i.pinimg.com/originals/15/e7/e3/15e7e300166c962d3b8a22f60b5cac9e.gif)](#)
 
 <h1 align="center">Hi 👋, I'm Kevin Simorangkir</h1>
 <h3 align="center">A passionate Back End and UI/UX Developer from Indonesia. Usually called VYN, I am a student at the Institut Teknologi Sumatera (ITERA). I majored in Informatics Engineering and now I focus on Web Development with more than 3 years of experience.</h3>
