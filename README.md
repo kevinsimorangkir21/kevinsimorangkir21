@@ -4,7 +4,7 @@
 <h3 align="center">A passionate Back End and UI/UX Developer from Indonesia. Usually called VYN, I am a student at the Institut Teknologi Sumatera (ITERA). I majored in Informatics Engineering and now I focus on Web Development with more than 3 years of experience.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kevinsimorangkir21&label=Profile%20views&color=0e75b6&style=flat" alt="kevinsimorangkir21" /> </p>
+
 
 <p align="left"> <a href="https://twitter.com/vinsch01" target="blank"><img src="https://img.shields.io/twitter/follow/twitter?logo=twitter&style=for-the-badge" alt="vinsch01" /></a> </p>
 
@@ -36,3 +36,5 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=kevinsimorangkir21&show_icons=true&theme=midnight-purple)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinsimorangkir21&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kevinsimorangkir21&label=Profile%20views&color=0e75b6&style=flat" alt="kevinsimorangkir21" /> </p>
