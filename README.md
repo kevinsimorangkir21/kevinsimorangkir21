@@ -6,7 +6,7 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/vinsch01" target="blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="vinsch01" /></a> <a href="https://instagram.com/vins.ch" target="blank"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="vins.ch" /></a> <a href="www.linkedin.com/in/kevinsimorangkir" target="blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="vins.ch" /></a> <img src="https://komarev.com/ghpvc/?username=kevinsimorangkir21&label=Profile%20views&color=0e75b6&style=flat" alt="kevinsimorangkir21" /></p>
+<p align="left"> <a href="https://twitter.com/vinsch01" target="blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="vinsch01" /></a> <a href="https://instagram.com/vins.ch" target="blank"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="vins.ch" /></a> <a href="www.linkedin.com/in/kevinsimorangkir" target="blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="vins.ch" /></a> <img src="https://komarev.com/ghpvc/?username=kevinsimorangkir21&label=Profile%20views&color=000000&style=flat" alt="kevinsimorangkir21" /></p>
 
 - 🎓 I’m currently learning **Institut Teknologi Sumatera**
 
