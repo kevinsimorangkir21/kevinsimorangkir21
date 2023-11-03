@@ -6,7 +6,7 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/vinsch01" target="blank"><img src="https://img.shields.io/twitter/follow/twitter?logo=twitter&style=for-the-badge" alt="vinsch01" /></a> <a href="https://twitter.com/vinsch01" target="blank"><img src="https://img.shields.io/twitter/follow/twitter?logo=twitter&style=for-the-badge" alt="vinsch01" /></a> </p>
+<p align="left"> <a href="https://twitter.com/vinsch01" target="blank"><img src="https://img.shields.io/twitter/follow/twitter?logo=twitter&style=for-the-badge" alt="vinsch01" /></a> <a href="https://instagram.com/vins.ch" target="blank"><img src="https://img.shields.io/twitter/follow/instagram?logo=instagram&style=for-the-badge" alt="vins.ch" /></a> </p>
 
 - 🔭 I’m currently working on **Ambis PTN**
 
