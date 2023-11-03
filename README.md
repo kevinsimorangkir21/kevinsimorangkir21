@@ -27,6 +27,3 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=kevinsimorangkir21&show_icons=true&theme=midnight-purple)
 [![My GitHub Language Stats]( https://github-readme-stats.vercel.app/api/top-langs/?username=kevinsimorangkir21&langs_count=8&count_private=false&layout=compact&theme=midnight-purple)]()
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kevinsimorangkir21&label=Profile%20views&color=0e75b6&style=flat" alt="kevinsimorangkir21" /> </p>
