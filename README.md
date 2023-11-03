@@ -8,15 +8,12 @@
 
 <p align="left"> <a href="https://twitter.com/vinsch01" target="blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="vinsch01" /></a> <a href="https://instagram.com/vins.ch" target="blank"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="vins.ch" /></a> <a href="www.linkedin.com/in/kevinsimorangkir" target="blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="vins.ch" /></a></p>
 
-- 🔭 I’m currently working on **Ambis PTN**
-
 - 🎓 I’m currently learning **Institut Teknologi Sumatera**
 
 - 💬 Ask me about **Web Devloped**
 
-- 📫 How to reach me **<mastercamp436@gmail.com>**
+- 📧 How to reach me **<mastercamp436@gmail.com>**
 
-- ⚡ Fun fact **I am Funny**
 
 <br>
 <h3 align="left">Connect with me:</h3>
