@@ -2,7 +2,7 @@
 
 <h1 align="center">嗨，我是凯文·西莫朗基尔🙌</h1>
 <h3 align="center">I am now a student at the Sumatra Institute of Technology majoring in Informatics Engineering. I have an interest in Front End Developer who has skills in the field of UI and UX.</h3>
-<img align="right" alt="Coding" width="390" src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
+<img align="right" alt="Coding" width="390" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif">
 
 
 
