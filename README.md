@@ -1,8 +1,8 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](#)
+[![MasterHead](https://i.pinimg.com/originals/4d/16/78/4d1678e171347c4402c231dad0394f0f.gif)](#)
 
 <h1 align="center">嗨，我是凯文·西莫朗基尔🙌</h1>
 <h3 align="center">I am now a student at the Sumatra Institute of Technology majoring in Informatics Engineering. I have an interest in Front End Developer who has skills in the field of UI and UX.</h3>
-<img align="right" alt="Coding" width="390" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif">
+<img align="right" alt="Coding" width="390" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
 
 
