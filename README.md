@@ -1,4 +1,4 @@
-[![MasterHead](https://camo.githubusercontent.com/c8626937d147ba7805f0989930848b2065807daae2202356d7201a9246c30b51/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f66732f3831626234623136353638343031392e363430623630333864313333652e676966)](#)
+[![MasterHead](https://cdnb.artstation.com/p/assets/images/images/024/858/699/original/pixel-jeff-divoom.gif?1583771904)](#)
 
 <h1 align="center">嗨，我是凯文·西莫朗基尔🙌</h1>
 <h3 align="center">I am now a student at the Sumatra Institute of Technology majoring in Informatics Engineering. I have an interest in Front End Developer who has skills in the field of UI and UX.</h3>
