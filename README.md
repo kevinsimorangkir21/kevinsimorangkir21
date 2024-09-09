@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/4d/16/78/4d1678e171347c4402c231dad0394f0f.gif)](#)
+[![MasterHead](https://i.pinimg.com/originals/cb/10/99/cb109999e76292b5288868a61c043b90.gif)](#)
 
 <h1 align="center">嗨，我是凯文·西莫朗基尔🙌</h1>
 <h3 align="center">I am now a student at the Sumatra Institute of Technology majoring in Informatics Engineering. I have an interest in Front End Developer who has skills in the field of UI and UX.</h3>
