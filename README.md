@@ -1,4 +1,4 @@
-[![MasterHead](https://cdnb.artstation.com/p/assets/images/images/024/858/699/original/pixel-jeff-divoom.gif?1583771904)](#)
+[![MasterHead](https://64.media.tumblr.com/975d10cff3c6f6eeb852068eff52352f/b84534345dc9ae51-4d/s640x960/b057a9c7be61fc05eb60eec11051508077d677cb.gif)](#)
 
 <h1 align="center">嗨，我是凯文·西莫朗基尔🙌</h1>
 <h3 align="center">I am now a student at the Sumatra Institute of Technology majoring in Informatics Engineering. I have an interest in Front End Developer who has skills in the field of UI and UX.</h3>
