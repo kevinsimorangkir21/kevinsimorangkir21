@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/cb/10/99/cb109999e76292b5288868a61c043b90.gif)](#)
+[![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](#)
 
 <h1 align="center">嗨，我是凯文·西莫朗基尔🙌</h1>
 <h3 align="justify">I am a student majoring in Informatics Engineering with various relevant experiences according to my interests. I have expertise in creating a website in a community and organization. I also have expertise in creating a UI and UX design both desktop and mobile visuals. And currently working in the world of UI / UX.</h3>
