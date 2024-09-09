@@ -14,8 +14,8 @@
   <img src="https://komarev.com/ghpvc/?username=kevinsimorangkir21&label=Profile%20views&color=000000&style=flat" alt="kevinsimorangkir21" />
 </p>
 
-<h3 align="justify">I am a student majoring in Informatics Engineering with various relevant experiences according to my interests. I have expertise in creating a website in a community and organization. I also have expertise in creating a UI and UX design both desktop and mobile visuals. And currently working in the world of UI / UX. 
-</h3>
+<h4 align="justify">I am a student majoring in Informatics Engineering with various relevant experiences according to my interests. I have expertise in creating a website in a community and organization. I also have expertise in creating a UI and UX design both desktop and mobile visuals. And currently working in the world of UI / UX. 
+</h4>
 
 
 <h3 align="left"><b>Languages and Tools</b></h3>
