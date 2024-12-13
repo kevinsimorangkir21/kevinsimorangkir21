@@ -28,9 +28,6 @@
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
     <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/>
   </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" style="color: white;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
   </a>
@@ -84,7 +81,7 @@
   </a>
 </p>
 
-<h3 align="left">Github Stats</h3>
+## <img src="Images/LogoPanah.svg" width="30px;" /> **GitHub Stats**
 
 ![](https://github-readme-stats.vercel.app/api?username=kevinsimorangkir21&show_icons=true&theme=midnight-purple)
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinsimorangkir21&langs_count=8&count_private=false&layout=compact&theme=midnight-purple)]()
