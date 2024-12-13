@@ -1,6 +1,6 @@
 [![MasterHead](https://i.pinimg.com/originals/bc/87/e5/bc87e5124f8d2cfe810d403adc96ad01.gif)](#)
 
-<h1 align="center">안녕하세요, 저는 케빈 시모랑키르입니다.🙌</h1>
+<h1 align="center">こんにちは、ケビン・シモランキルです.🙌</h1>
 <p align="center">
   <a href="https://twitter.com/vinsch01" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="vinsch01" />
