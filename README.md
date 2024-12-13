@@ -9,8 +9,7 @@
     <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="vins.ch" />
   </a>
   <a href="https://www.behance.net/kevinsimoran1" target="\_blank"\>
-    <img src="https://img.shields.io/badge/Behance-000000?style=for-the-badge&logo=behance&logoColor=white" alt="vins.ch" />
-  </a>
+    <img src="https://img.shields.io/badge/Behance-000000?style=for-the-badge&logo=behance&logoColor=white" alt="vins.ch" /></a>
   <a href="https://www.linkedin.com/in/kevinsimorangkir" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="kevinsimorangkir" />
   </a>
