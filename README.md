@@ -83,5 +83,5 @@
 
 ## <img src="Images/LogoPanah.svg" width="30px;" /> **GitHub Stats**
 
-![](https://github-readme-stats.vercel.app/api?username=kevinsimorangkir21&show_icons=true&theme=midnight-purple)
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinsimorangkir21&langs_count=8&count_private=false&layout=compact&theme=midnight-purple)]()
+![](https://github-readme-stats.vercel.app/api?username=kevinsimorangkir21&show_icons=true&theme=midnight-gold)
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinsimorangkir21&langs_count=8&count_private=false&layout=compact&theme=midnight-gold)]()
