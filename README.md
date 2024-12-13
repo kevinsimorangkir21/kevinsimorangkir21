@@ -5,7 +5,7 @@
   <a href="https://twitter.com/vinsch01" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
-  <a href="https://instagram.com/vins.ch" target="_blank">
+<a href="https://instagram.com/vins.ch" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://www.behance.net/kevinsimoran1" target="\_blank"\>
@@ -13,7 +13,7 @@
   <a href="https://www.linkedin.com/in/kevinsimorangkir" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=kevinsimorangkir21&label=Profile%20views&color=000000&style=flat" alt="kevinsimorangkir21" />
+<img src="https://komarev.com/ghpvc/?username=kevinsimorangkir21&label=Profile%20views&color=000000&style=flat" alt="kevinsimorangkir21" />
 </p>
 
 <h3 align="justify">I am a student majoring in Informatics Engineering with various relevant experiences according to my interests. I have expertise in creating a website in a community and organization. I also have expertise in creating a UI and UX design both desktop and mobile visuals. And currently working in the world of UI / UX. 
