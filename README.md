@@ -11,9 +11,8 @@
   <a href="https://www.behance.net/kevinsimoran1" target="\_blank">
     <img src="https://img.shields.io/badge/Behance-000000?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" /></a>
   <a href="https://kvn-tech.xyz/" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=url&logoColor=white" alt="GitHub" />
   </a>
-
   <a href="https://www.linkedin.com/in/kevinsimorangkir" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
