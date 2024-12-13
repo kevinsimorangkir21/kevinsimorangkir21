@@ -8,8 +8,10 @@
 <a href="https://instagram.com/vins.ch" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://www.behance.net/kevinsimoran1" target="\_blank"\>
+  <a href="https://www.behance.net/kevinsimoran1" target="\_blank">
     <img src="https://img.shields.io/badge/Behance-000000?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" /></a>
+  <a href="https://kvn-tech.xyz/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=website&logoColor=white" alt="Website" />
   <a href="https://www.linkedin.com/in/kevinsimorangkir" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
