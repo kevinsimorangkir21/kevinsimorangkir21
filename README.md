@@ -3,7 +3,7 @@
 <h1 align="center">こんにちは、ケビン・シモランキルです.🙌</h1>
 <p align="center">
   <a href="https://twitter.com/vinsch01" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="vinsch01" />
+    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="vinsch01" />
   </a>
   <a href="https://instagram.com/vins.ch" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="vins.ch" />
