@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/bc/87/e5/bc87e5124f8d2cfe810d403adc96ad01.gif)](#)
+[![MasterHead](https://ofuturodascoisas.com/wp-content/uploads/2018/04/virtuaverse-by-Valenberg-1.gif)](#)
 
 <h1 align="center">こんにちは、ケビン・シモランキルです.🙌</h1>
 <p align="center">
@@ -19,7 +19,7 @@
 <img src="https://komarev.com/ghpvc/?username=kevinsimorangkir21&label=Profile%20views&color=000000&style=flat" alt="kevinsimorangkir21" />
 </p>
 
-<h3 align="justify">I am currently a student majoring in Informatics Engineering. With various relevant experiences according to my interests, I have expertise in creating websites in communities and organizations. I also have expertise in creating UI and UX designs visually for desktop and mobile. And currently involved in the world of UI and UX design. 
+<h3 align="justify">I am a graduate of Informatics Engineering with expertise in programming, data analysis, and application interface design. With these skills, I have applied them to several experiences such as data analysis, interface and prototype design, application and website development. From these experiences, I have gained skills in analysis, design, and programming. Currently, I am actively involved in learning and exploring technologies in the fields of data analysis, user interface design, and website development. 
 </h3>
 
 
